@@ -1,9 +1,9 @@
 # cnn-v1-jcns2018
 code for "Convolutional neural network models of V1 responses to complex patterns"
 
-## demo code
+## demo code for Figure 7
 
-Incoming. It will be runnable via [Binder](https://mybinder.org/).
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/leelabcnbc/cnn-v1-jcns2018/master?filepath=fig7_cnn.ipynb)
 
 ## full code
 
